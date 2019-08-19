@@ -1,0 +1,27 @@
+[
+  {
+    "partId" : "b048a8f6-1962-42f1-8f52-0ba8f3aebd3b",
+    "partName" : "Part 1",
+    "description" : "This is Part 1"
+  },
+  {
+    "partId" : "3be66a69-9e31-4ffc-aa33-0219610962b3",
+    "partName" : "Part 2",
+    "description" : "This is Part 2"
+  },
+  {
+    "partId" : "01629cb8-c3e6-47ab-9c68-f665c3227744",
+    "partName" : "Part 3",
+    "description" : "This is Part 3"
+  },
+  {
+    "partId" : "5ea5024e-7dc6-445c-ba62-dedc65d2e8cb",
+    "partName" : "Part 4",
+    "description" : "This is Part 4"
+  },
+  {
+    "partId" : "b84e3baa-2f31-48d8-aebc-93625fd441f1",
+    "partName" : "Part 5",
+    "description" : "This is Part 5"
+  }
+]
